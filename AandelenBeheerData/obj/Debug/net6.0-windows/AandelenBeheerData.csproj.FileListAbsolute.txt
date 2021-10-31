@@ -1,0 +1,12 @@
+C:\Users\jaimy\source\repos\Opdracht6\AandelenBeheerData\bin\Debug\net6.0-windows\AandelenBeheerData.deps.json
+C:\Users\jaimy\source\repos\Opdracht6\AandelenBeheerData\bin\Debug\net6.0-windows\AandelenBeheerData.dll
+C:\Users\jaimy\source\repos\Opdracht6\AandelenBeheerData\bin\Debug\net6.0-windows\ref\AandelenBeheerData.dll
+C:\Users\jaimy\source\repos\Opdracht6\AandelenBeheerData\bin\Debug\net6.0-windows\AandelenBeheerData.pdb
+C:\Users\jaimy\source\repos\Opdracht6\AandelenBeheerData\obj\Debug\net6.0-windows\AandelenBeheerData.csproj.AssemblyReference.cache
+C:\Users\jaimy\source\repos\Opdracht6\AandelenBeheerData\obj\Debug\net6.0-windows\AandelenBeheerData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaimy\source\repos\Opdracht6\AandelenBeheerData\obj\Debug\net6.0-windows\AandelenBeheerData.AssemblyInfoInputs.cache
+C:\Users\jaimy\source\repos\Opdracht6\AandelenBeheerData\obj\Debug\net6.0-windows\AandelenBeheerData.AssemblyInfo.cs
+C:\Users\jaimy\source\repos\Opdracht6\AandelenBeheerData\obj\Debug\net6.0-windows\AandelenBeheerData.csproj.CoreCompileInputs.cache
+C:\Users\jaimy\source\repos\Opdracht6\AandelenBeheerData\obj\Debug\net6.0-windows\AandelenBeheerData.dll
+C:\Users\jaimy\source\repos\Opdracht6\AandelenBeheerData\obj\Debug\net6.0-windows\ref\AandelenBeheerData.dll
+C:\Users\jaimy\source\repos\Opdracht6\AandelenBeheerData\obj\Debug\net6.0-windows\AandelenBeheerData.pdb

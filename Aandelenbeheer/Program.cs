@@ -12,11 +12,21 @@ namespace Aandelenbeheer
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
-        static void Main()
+        static void MainGUI()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Aandelenbeheer());
+        }
+        static void Main()
+
+        {
+            AandelenBeheerData.Rss rssdata = new AandelenBeheerData.Rss();
+
+            rssdata.ConnectionString = AandelenBeheer.Properties.Settings.Default.AandelenBeheerConnectionString;
+
+            rssdata.Bewaar("Titel", "Ik", "Geen", "http://", DateTime.Now);
+
         }
     }
 }
